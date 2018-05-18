@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JICPTracker.iml" filepath="$PROJECT_DIR$/JICPTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbContext/dbContext.iml" filepath="$PROJECT_DIR$/dbContext/dbContext.iml" />
     </modules>
   </component>
 </project>
